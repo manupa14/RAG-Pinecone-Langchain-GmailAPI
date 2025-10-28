@@ -1,6 +1,3 @@
-Here you go — a clean, copy-pasteable **README.md** for your repo.
-
----
 
 # Crime & Punishment — Pinecone RAG + Email (Ollama + Gmail)
 
