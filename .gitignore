@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Envs & IDE
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+
+# Local config & secrets
+.env
+credentials.json
+token.json
+
+# OS noise
+.DS_Store
+Thumbs.db
